@@ -1,0 +1,5 @@
+
+name = "cfnew-git"
+main = "./_worker.js"
+compatibility_date = "2026-01-20"
+workers_dev = true
